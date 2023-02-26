@@ -1,15 +1,4 @@
-# Title: StevenBlack/hosts with the fakenews, gambling, porn and social extensions
-#
-# This hosts file is a merged collection of hosts from reputable sources,
-# with a dash of crowd sourcing via GitHub
-#
-# Date: 24 February 2023 01:38:05 (UTC)
-# Extensions added to this file: fakenews, gambling, porn, social
-# Number of unique domains: 243,366
-#
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
-# Project home page: https://github.com/StevenBlack/hosts
-# Project releases: https://github.com/StevenBlack/hosts/releases
+# Title: Maxim/hosts
 #
 # ===============================================================
 
@@ -35,8 +24,6 @@ ff02::3 ip6-allhosts
 # Start StevenBlack
 
 #=====================================
-# Title: Hosts contributed by Steven Black
-# http://stevenblack.com
 
 0.0.0.0 youporn.com
 0.0.0.0 youporn.it
